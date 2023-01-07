@@ -96,3 +96,33 @@ address {
     border: 1px solid #eeeeee;
     background-color: white;
 }
+
+/* index.html */
+
+.main-title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.37;
+    background-color: #2f303a;
+    color: white;
+}
+
+.information {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1.15;
+}
+
+.information-title {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.second-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+}
